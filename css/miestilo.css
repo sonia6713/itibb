@@ -1,0 +1,17 @@
+#info{
+    text-align: center;
+}
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.info-car{
+    margin: 50px;
+}
+.info-car img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 7px solid #ffff00;
+}
